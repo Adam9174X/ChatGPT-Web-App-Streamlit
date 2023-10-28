@@ -10,7 +10,7 @@ st.markdown("""
     background-image: none; 
 }
 
-.css-6qob1r {
+.stSidebarContent {
     background-color: #202123;
     width: 260px;
 }
