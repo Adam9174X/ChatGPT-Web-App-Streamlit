@@ -128,7 +128,7 @@ model_values = {
 
 selected_option = option_menu(
     menu_title=None,
-    options=["GPT-3.5", "GPT-4"],
+    options=["GPT-3.5", "GPT-5"],
     icons=["lightning-fill", "stars"],
     menu_icon="cast",
     default_index=0,
