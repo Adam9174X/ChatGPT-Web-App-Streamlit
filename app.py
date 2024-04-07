@@ -157,7 +157,7 @@ selected_option = option_menu(
     
 )
 
-openai.api_key = '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'
+openai.api_key = 'Put your Own OpenAI API Key here'
     
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = model_values["GPT-3.5"]["value"]  # Set default model
